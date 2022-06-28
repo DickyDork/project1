@@ -1,0 +1,3 @@
+[build]
+    base = "aden site"
+    "CI= npm run build"
